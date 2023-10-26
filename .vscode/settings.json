@@ -1,3 +1,80 @@
-{
-    "liveServer.settings.port": 5501
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дз номер 6</title>
+    <ul>
+        <li><a href="">WebStudio</a></li>
+        <li><a href="">Студія</a></li>
+        <li><a href="">Портфоліо</a></li>
+        <li><a href="">Контакти</a></li>
+        <li><a href="mail.to:">info@devstudio.com</a></li>
+        <li><a href="tel:">+38 096 111 11 11</a></li>
+    </ul>
+</head>
+<body>
+    <ul>
+        <button>Усі</button>
+        <button>Веб-сайти</button>
+        <button>Додатки</button>
+        <button>Дизайн</button>
+        <button>Маркетинг</button>
+    </ul>
+    <ul>
+        <li>
+            <img src="./img.png" alt="">
+            <h3>Технокряк</h3>
+            <h8>Веб-сайт</h8>
+        </li>
+        <li>
+            <img src="./img — копия.png" alt="">
+            <h3>Постер New Orlean vs Golden star</h3>
+            <h8>Дизайн</h8>
+        </li>
+        <li>
+            <img src="./img — копия 2.png" alt="">
+            <h3>Ресторан Seafood</h3>
+            <h8>Додаток</h8>
+        </li>
+        <li>
+            <img src="./img — копия 3.png" alt="">
+            <h3>Проєкт Prime</h3>
+            <h8>Маркетинг</h8>
+        </li>
+        <li>
+            <img src="./img (1).png" alt="">
+            <h3>Проєкт Boxes</h3>
+            <h8>Додаток</h8>
+        </li>
+        <li>
+            <img src="./img (2).png" alt="">
+            <h3>Inspiration has no Borders</h3>
+            <h8>Веб-сайт</h8>
+        </li>
+        <li>
+            <img src="./img (3).png" alt="">
+            <h3>Видання Limited Edition</h3>
+            <h8>Дизайн</h8>
+        </li>
+        <li>
+            <img src="./img (4).png" alt="">
+            <h3>Проєкт LAB</h3>
+            <h8>Маркетинг</h8>
+        </li>
+        <li>
+            <img src="./img (5).png" alt="">
+            <h3>Growing Business</h3>
+            <h8>Додаток</h8>
+        </li>
+    </ul>
+</body>
+<footer>
+    <ul>
+        <li><a href="">WebStudio</a></li>
+        <li><address>м.Київ,пр-т Лесі Українки,26</address></li>
+        <li><a href="mail.to:">info@devstudio.com</a></li>
+        <li><a href="tel:">+38 096 111 11 11</a></li>
+    </ul>
+</footer>
+</html>
